@@ -17,3 +17,5 @@ added this line from branch feature 1
 added this line from master
 创建分支 new branch
 added this line from branch feature 1
+
+现在修复bug，需要把“added this line from branch feature 1”改为“Git is a free software ...”，然后提交：
